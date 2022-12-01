@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-![](https://www.careerguide.com/career/wp-content/uploads/2020/02/20160628_1516_FTI_Cyber_Security.gif)
+
+![](https://www.careerguide.com/career/wp-content/uploads/2020/02/20160628_1516_FTI_Cyber_Security.gif) 
+
 - :telescope: I’m currently a full-time university student At UTSA and I major in Cyber Security.
 
 - :seedling: Discovering new books and new hobbies is my favorite thing to do
