@@ -11,3 +11,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+![](https://www.careerguide.com/career/wp-content/uploads/2020/02/20160628_1516_FTI_Cyber_Security.gif)
+- :telescope: I’m currently a full-time university student At UTSA and I major in Cyber Security.
+
+- :seedling: Discovering new books and new hobbies is my favorite thing to do
+
+- :zap: In my free time, I make photo collages and put them on my walls in my room.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
