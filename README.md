@@ -12,7 +12,9 @@
   </a>
 </div>
 
-![](https://www.careerguide.com/career/wp-content/uploads/2020/02/20160628_1516_FTI_Cyber_Security.gif) 
+---
+
+### :woman_technologist: About Me :
 
 - :telescope: I’m currently a full-time university student At UTSA and I major in Cyber Security.
 
